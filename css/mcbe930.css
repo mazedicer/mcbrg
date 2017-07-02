@@ -1,0 +1,51 @@
+/* CSS Document */
+
+@media screen and (min-width: 930px) {
+	
+	a:hover {
+	text-decoration:underline;
+	}
+
+	#home_links_holder {	
+		display:block;
+	width:160px;
+	}
+	
+	#location {
+	height:30px;
+	}
+
+	.subcategory {
+	height:250px;
+	}
+
+
+	/* admin editor */
+	
+	.controls {
+	font-size:11px;
+	}
+	
+	#search_attributes_div {
+		width:100%;
+	}
+	
+	#search_attributes_div h3 {
+		background-color:#FFFFFF;
+	}
+	
+	#advance_search_toggle_div h3 {
+		background-color:#FFFFFF;
+	}
+
+	.advance_search_content {
+	  width: 195px;
+	}
+	.article_image {
+		width:650px;
+	}
+	#add_review {
+		margin-left: 112px;
+	}
+
+}

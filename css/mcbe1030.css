@@ -1,0 +1,21 @@
+/* CSS Document */
+
+@media screen and (min-width: 1030px) {
+	
+	.banner_links_div {
+	width: 20%;
+	}
+
+
+	#right_content {
+	display:block;
+	}
+	
+	.paypal_button {
+	
+		visibility:hidden;
+		display:none;
+	
+	}
+
+}

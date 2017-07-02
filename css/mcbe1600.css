@@ -1,0 +1,40 @@
+/* CSS Document */
+
+@media screen and (min-width: 1600px) {
+
+
+	#home_links_holder {
+	width:450px;
+	}
+	
+	#location {
+	width:95%;
+	}
+	
+	#logo_div {
+		display:block;
+		float: left;
+		width: 270px;
+		height: 150px;
+		margin-left: 270px;
+		top: 10px;
+		margin-top: 35px;
+	}
+
+	.category_product {
+	width:100%;
+	}
+
+	#home_links {
+	  width:450px;
+	}
+	
+	#home_links a {
+	clear:none;
+	}
+	
+	.banner_links_div {
+		width: 14%;
+		}
+
+}

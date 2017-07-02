@@ -1,0 +1,172 @@
+/* CSS Document */
+
+@media screen and (min-width: 720px) {
+	
+	.search_input {
+	  border:1px solid #CC3300; 
+		width:75%;
+		padding:5px;
+	}
+	
+	#menu_search_buttton_div {
+	
+		display:block;
+		width:66px; 
+		height:61px; 
+		float:right;
+	
+	}
+	
+	#links_holder {
+		width:744px;
+		height:62px;
+	}
+	
+	#upper_links {
+		width:620px;  
+		margin:0 auto;
+		display:block;
+	}
+	
+	.static_product_ad a {
+	text-decoration:none;
+	 font-family:"Courier New", Courier, monospace;
+	}
+	
+	#bottom_content div a {
+	color:#ccc;
+	}
+
+	#links_holder {
+		width:auto;
+		height:62px;
+		float:left;
+		display:block;
+	}
+
+	#x_link_div_holder {
+	visibility:visible;
+		position:relative;
+		width:612px;
+		height:auto;
+		float:left;
+		background:none;
+		margin-top:-2px;
+		margin-left:5px;
+		display:none;
+		z-index:9;
+	}
+	#x_link_ul {
+		list-style:none;
+		float:left;
+		background-color:#fff;
+		width:612px;
+		margin:0px;
+		padding:0px;
+		height:0px;
+		z-index:10;
+		overflow:hidden;
+		border:1px solid #333333;
+		-moz-border-radius-topleft:5px; 
+	-webkit-border-top-left-radius:5px; 
+	-moz-border-radius-topright:5px; 
+	-webkit-border-top-right-radius:5px; 
+	-moz-border-radius-bottomleft:5px; 
+	-webkit-border-bottom-left-radius:5px; 
+	-moz-border-radius-bottomright:5px; 
+	-webkit-border-bottom-right-radius:5px; 
+	}
+	#x_link_ul a{
+		float:left;
+		width:62px;
+		height:62px;
+		margin:2px;
+		padding:0px;
+	}
+	
+	#x_link_bottom_image_holder {
+		width:480px;
+		height:23px;
+		display:block;
+		float:left;
+		margin-left:70px;
+	}
+	
+	#google_cart {
+	width:200px;
+	height:5px;
+	}
+
+	#home_links_holder {
+	width:160px;
+	float:left;
+	margin-right:5px;
+
+	}
+
+	.subcategory {
+	}
+	
+	.subcategory a {
+	color:#999999;
+	}
+
+	
+	select {
+	
+		height:25px;
+		font-size:12pt;
+	
+	}
+
+	/* admin editor */
+
+	
+
+	#home_links {
+	  width:160px;
+	}
+	
+	#home_links a {
+	display:block;
+	clear:both;
+	}
+	
+	#search_attributes_div {
+		width:95%;
+	}
+
+	#results {
+		width:450px;
+	}
+	.advance_search_product {
+	width:500px;
+	}
+
+	.advance_search_content {
+	  width: 195px;
+	}
+
+	#add_review {
+		width:70%;
+		margin:0 auto;
+	}
+	#add_review h3 {
+		margin:0px;
+		padding-bottom:5px;
+	}
+	
+	#interests_selector{
+		
+		width:60%;
+		height:80px;
+		
+	}
+	
+	
+	#drop_down_menu_div {
+		display:none;
+	}
+
+
+}
