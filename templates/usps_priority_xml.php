@@ -1,4 +1,4 @@
-API=RateV4&XML= <RateV4Request USERID="052CUSTO1254">
+API=RateV4&XML= <RateV4Request USERID="youruseridnumber">
     <Package ID="0">
         <Service>PRIORITY MAIL</Service>
         <ZipOrigination>92154</ZipOrigination> 
