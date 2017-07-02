@@ -1,7 +1,7 @@
 <?php
 if( isset( $_POST[ 'login' ] ) && isset( $_POST[ 'password' ] ) ){
-	$login = 'mario';
-	$password = 'Oiram9Cust0@';
+	$login = 'yourlogin';
+	$password = 'yourpassword';
 	$result = "<div id=\"product_pick\"></div>";
 	if( strcmp( $login, $_POST[ 'login' ] ) !== 0 && strcmp( $password, $_POST[ 'password' ] ) !== 0 ){
 		$result = "badlogin";
